@@ -37,3 +37,4 @@ footer{text-align:center;font:400 13px/1.6 Jost,"Helvetica Neue",Arial,sans-seri
  .home{grid-template-columns:1fr;gap:28px}.profile{max-width:220px}
  h2{font-size:27px}
 }
+.webstat{position:absolute;left:-9999px;height:0;overflow:hidden}
