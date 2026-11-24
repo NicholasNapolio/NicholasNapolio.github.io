@@ -1,0 +1,216 @@
+agency,years,ideology,ideology_se,pres_party
+Department of Agriculture,1949-1952,-2.916149024,0.793727511,Democratic
+Department of Agriculture,1953-1956,2.164911979,0.833752317,Republican
+Department of Agriculture,1957-1960,2.425699943,0.997715917,Republican
+Department of Agriculture,1961-1964,-5.202128692,0.960466458,Democratic
+Department of Agriculture,1965-1968,-4.561539601,0.93121639,Democratic
+Department of Agriculture,1969-1972,-1.022158509,0.781260577,Republican
+Department of Agriculture,1973-1976,-0.670132255,1.016165901,Republican
+Department of Agriculture,1977-1980,-5.042685673,1.094394048,Democratic
+Department of Agriculture,1981-1984,4.950130739,0.8521512,Republican
+Department of Agriculture,1985-1988,2.239221695,0.85629492,Republican
+Department of Agriculture,1989-1992,1.487551578,0.922737053,Republican
+Department of Agriculture,1993-1996,-5.666899929,0.956080596,Democratic
+Department of Agriculture,1997-2000,-2.92915618,1.267768793,Democratic
+Department of Agriculture,2001-2004,1.771139171,0.670595331,Republican
+Department of Agriculture,2005-2008,0.988067826,0.829552704,Republican
+Department of Agriculture,2009-2012,-3.525666385,0.991276601,Democratic
+Department of Agriculture,2013-2016,-3.769007964,1.022513691,Democratic
+Department of Agriculture,2017-2020,3.112979492,0.852832284,Republican
+Department of Commerce,1949-1952,-2.620909602,0.782762893,Democratic
+Department of Commerce,1953-1956,0.656626617,0.805308858,Republican
+Department of Commerce,1957-1960,1.629228693,0.817639193,Republican
+Department of Commerce,1961-1964,-3.98069528,1.188249048,Democratic
+Department of Commerce,1965-1968,-3.438842912,0.873860119,Democratic
+Department of Commerce,1969-1972,1.755211341,0.98299665,Republican
+Department of Commerce,1973-1976,1.096286711,0.746867235,Republican
+Department of Commerce,1977-1980,-2.195456075,0.836322826,Democratic
+Department of Commerce,1981-1984,4.991408877,0.969150781,Republican
+Department of Commerce,1985-1988,3.94470782,0.738898834,Republican
+Department of Commerce,1989-1992,1.223242934,1.301563425,Republican
+Department of Commerce,1993-1996,-2.900900457,0.822967633,Democratic
+Department of Commerce,1997-2000,-4.001952407,1.042337745,Democratic
+Department of Commerce,2001-2004,3.033866691,0.900823068,Republican
+Department of Commerce,2005-2008,1.765873103,0.654489627,Republican
+Department of Commerce,2009-2012,-4.083905226,0.908615969,Democratic
+Department of Commerce,2013-2016,-4.63830116,0.863136351,Democratic
+Department of Commerce,2017-2020,5.803383377,1.319287994,Republican
+Department of Defense,1949-1952,1.60061669,1.111721196,Democratic
+Department of Defense,1953-1956,5.104108063,0.826300695,Republican
+Department of Defense,1957-1960,4.597108497,0.761643613,Republican
+Department of Defense,1961-1964,0.07737755,0.852670377,Democratic
+Department of Defense,1965-1968,3.296852615,1.07691627,Democratic
+Department of Defense,1969-1972,6.952974802,1.668995128,Republican
+Department of Defense,1973-1976,4.178481212,0.705612203,Republican
+Department of Defense,1977-1980,-0.044413115,0.779661296,Democratic
+Department of Defense,1981-1984,6.365330919,1.675339059,Republican
+Department of Defense,1985-1988,7.091251668,1.61017198,Republican
+Department of Defense,1989-1992,2.422868328,1.039544901,Republican
+Department of Defense,1993-1996,-2.08948591,0.810033714,Democratic
+Department of Defense,1997-2000,0.716862293,1.053566715,Democratic
+Department of Defense,2001-2004,8.749081009,1.598601563,Republican
+Department of Defense,2005-2008,6.237716268,1.240910206,Republican
+Department of Defense,2009-2012,-3.456652703,1.029455361,Democratic
+Department of Defense,2013-2016,-0.838883436,0.810401642,Democratic
+Department of Defense,2017-2020,5.250934417,1.184665802,Republican
+Department of Education,1981-1984,5.326910193,1.395669553,Republican
+Department of Education,1985-1988,3.301108116,1.250740126,Republican
+Department of Education,1989-1992,2.525151778,0.800530746,Republican
+Department of Education,1993-1996,-6.606454969,1.680975919,Democratic
+Department of Education,1997-2000,-2.302640947,0.793483169,Democratic
+Department of Education,2001-2004,3.142543798,1.264335838,Republican
+Department of Education,2005-2008,2.576067261,0.833047556,Republican
+Department of Education,2009-2012,-5.205634856,0.917904668,Democratic
+Department of Education,2013-2016,-5.278236944,1.05257106,Democratic
+Department of Education,2017-2020,8.040608506,1.868071026,Republican
+Department of Energy,1977-1980,-4.757318455,1.117238468,Democratic
+Department of Energy,1981-1984,5.933882829,0.953620941,Republican
+Department of Energy,1985-1988,2.748052179,0.641626324,Republican
+Department of Energy,1989-1992,0.915728188,0.879149218,Republican
+Department of Energy,1993-1996,-3.390751193,0.876101961,Democratic
+Department of Energy,1997-2000,-4.245868301,0.977702502,Democratic
+Department of Energy,2001-2004,1.659651038,0.815894898,Republican
+Department of Energy,2005-2008,2.119530746,0.921729269,Republican
+Department of Energy,2009-2012,-4.538171812,0.944169636,Democratic
+Department of Energy,2013-2016,-4.289261861,0.7211699,Democratic
+Department of Energy,2017-2020,4.186532907,0.868867891,Republican
+Department of Health and Human Services,1981-1984,3.430393267,0.893238099,Republican
+Department of Health and Human Services,1985-1988,2.249789088,0.770538821,Republican
+Department of Health and Human Services,1989-1992,0.496175727,0.865595278,Republican
+Department of Health and Human Services,1993-1996,-3.984642163,1.040923483,Democratic
+Department of Health and Human Services,1997-2000,-3.341096058,0.825405874,Democratic
+Department of Health and Human Services,2001-2004,0.660735721,0.900917826,Republican
+Department of Health and Human Services,2005-2008,1.38836105,0.667531152,Republican
+Department of Health and Human Services,2009-2012,-6.388096284,0.862824507,Democratic
+Department of Health and Human Services,2013-2016,-5.121107671,1.058417897,Democratic
+Department of Health and Human Services,2017-2020,4.579338587,0.909530526,Republican
+Department of Homeland Security,2001-2004,6.119098374,1.305612893,Republican
+Department of Homeland Security,2005-2008,5.70612122,1.32685251,Republican
+Department of Homeland Security,2009-2012,-2.394057732,0.792984514,Democratic
+Department of Homeland Security,2013-2016,-0.21560123,0.814536559,Democratic
+Department of Homeland Security,2017-2020,7.531987876,1.275529519,Republican
+Department of Housing and Urban Development,1965-1968,-6.450648004,1.125021798,Democratic
+Department of Housing and Urban Development,1969-1972,-2.120783378,0.959420151,Republican
+Department of Housing and Urban Development,1973-1976,-0.452497386,0.742195089,Republican
+Department of Housing and Urban Development,1977-1980,-4.850241153,0.857397841,Democratic
+Department of Housing and Urban Development,1981-1984,5.928164344,1.304875635,Republican
+Department of Housing and Urban Development,1985-1988,2.212077817,0.713079328,Republican
+Department of Housing and Urban Development,1989-1992,0.013252227,0.761652542,Republican
+Department of Housing and Urban Development,1993-1996,-4.921941892,0.822049832,Democratic
+Department of Housing and Urban Development,1997-2000,-4.853605253,0.88456985,Democratic
+Department of Housing and Urban Development,2001-2004,0.282416289,0.711844779,Republican
+Department of Housing and Urban Development,2005-2008,0.045766641,0.833276932,Republican
+Department of Housing and Urban Development,2009-2012,-5.024933048,1.09977869,Democratic
+Department of Housing and Urban Development,2013-2016,-6.04070346,0.951371489,Democratic
+Department of Housing and Urban Development,2017-2020,3.164931202,0.948548264,Republican
+Department of Justice,1949-1952,-1.450058289,0.834102397,Democratic
+Department of Justice,1953-1956,2.498608647,0.788329354,Republican
+Department of Justice,1957-1960,1.191414372,0.943798333,Republican
+Department of Justice,1961-1964,-3.735530883,1.095925536,Democratic
+Department of Justice,1965-1968,-3.611734151,0.842556476,Democratic
+Department of Justice,1969-1972,3.536811558,0.801069033,Republican
+Department of Justice,1973-1976,3.123312343,0.797990485,Republican
+Department of Justice,1977-1980,-5.617217301,1.67633598,Democratic
+Department of Justice,1981-1984,6.16136561,1.010082332,Republican
+Department of Justice,1985-1988,5.824676193,1.051739359,Republican
+Department of Justice,1989-1992,3.156797229,0.838841656,Republican
+Department of Justice,1993-1996,-5.978865598,1.146882392,Democratic
+Department of Justice,1997-2000,-4.001972125,0.698156139,Democratic
+Department of Justice,2001-2004,5.724476138,0.831966974,Republican
+Department of Justice,2005-2008,5.559333142,1.141814026,Republican
+Department of Justice,2009-2012,-5.856283025,1.137232241,Democratic
+Department of Justice,2013-2016,-5.338175371,0.937257631,Democratic
+Department of Justice,2017-2020,6.584252127,1.030401893,Republican
+Department of Labor,1949-1952,-5.493779331,1.020719417,Democratic
+Department of Labor,1953-1956,0.087386994,0.886018276,Republican
+Department of Labor,1957-1960,-1.654081051,0.791340256,Republican
+Department of Labor,1961-1964,-5.472853533,0.720243716,Democratic
+Department of Labor,1965-1968,-5.711946227,0.807913443,Democratic
+Department of Labor,1969-1972,-1.311524286,0.934990137,Republican
+Department of Labor,1973-1976,-1.685320215,1.078499564,Republican
+Department of Labor,1977-1980,-3.679593166,0.950939591,Democratic
+Department of Labor,1981-1984,5.375614618,1.0123474,Republican
+Department of Labor,1985-1988,2.588497476,0.872833964,Republican
+Department of Labor,1989-1992,0.534199963,0.700920053,Republican
+Department of Labor,1993-1996,-4.763422512,0.859063751,Democratic
+Department of Labor,1997-2000,-2.453634607,0.987902213,Democratic
+Department of Labor,2001-2004,2.135073104,0.891969713,Republican
+Department of Labor,2005-2008,2.768969679,0.85293721,Republican
+Department of Labor,2009-2012,-4.821738781,0.901284427,Democratic
+Department of Labor,2013-2016,-3.889323449,1.063917497,Democratic
+Department of Labor,2017-2020,4.722793879,0.939984604,Republican
+Department of State,1949-1952,-0.812328337,0.866306185,Democratic
+Department of State,1953-1956,2.767909567,0.662492542,Republican
+Department of State,1957-1960,1.346584967,0.793316042,Republican
+Department of State,1961-1964,-1.903679978,0.948824708,Democratic
+Department of State,1965-1968,-1.945397402,0.957350225,Democratic
+Department of State,1969-1972,-0.764085176,0.918493785,Republican
+Department of State,1973-1976,0.545199677,0.725983615,Republican
+Department of State,1977-1980,-5.497984059,1.369811257,Democratic
+Department of State,1981-1984,4.453006421,1.33847098,Republican
+Department of State,1985-1988,3.78370634,0.933114644,Republican
+Department of State,1989-1992,0.635265984,0.799286509,Republican
+Department of State,1993-1996,-5.628861095,1.066282069,Democratic
+Department of State,1997-2000,-4.316570801,1.123356668,Democratic
+Department of State,2001-2004,0.36209093,0.726635021,Republican
+Department of State,2005-2008,1.681993706,0.792214288,Republican
+Department of State,2009-2012,-5.700063998,1.064963864,Democratic
+Department of State,2013-2016,-5.018537239,0.963877018,Democratic
+Department of State,2017-2020,2.982507656,0.768550709,Republican
+Department of the Interior,1949-1952,-2.926324092,0.830830023,Democratic
+Department of the Interior,1953-1956,3.238958157,0.925570352,Republican
+Department of the Interior,1957-1960,-0.155165742,0.67806127,Republican
+Department of the Interior,1961-1964,-5.151133014,1.358517279,Democratic
+Department of the Interior,1965-1968,-3.99033229,0.810074802,Democratic
+Department of the Interior,1969-1972,-0.596947821,0.882000072,Republican
+Department of the Interior,1973-1976,1.22335065,0.805360284,Republican
+Department of the Interior,1977-1980,-4.116467508,1.081775735,Democratic
+Department of the Interior,1981-1984,6.044095469,1.312831249,Republican
+Department of the Interior,1985-1988,3.443768891,0.805483461,Republican
+Department of the Interior,1989-1992,2.179632706,0.889073245,Republican
+Department of the Interior,1993-1996,-4.2078597,0.746265695,Democratic
+Department of the Interior,1997-2000,-2.91930613,0.957644625,Democratic
+Department of the Interior,2001-2004,3.850114612,0.878746242,Republican
+Department of the Interior,2005-2008,3.207930654,0.849415845,Republican
+Department of the Interior,2009-2012,-4.195313034,0.722279337,Democratic
+Department of the Interior,2013-2016,-4.947786643,1.036233186,Democratic
+Department of the Interior,2017-2020,6.123359239,1.108231937,Republican
+Department of the Treasury,1949-1952,-1.058103034,0.80470456,Democratic
+Department of the Treasury,1953-1956,2.810314425,0.886587463,Republican
+Department of the Treasury,1957-1960,1.733945046,0.878084532,Republican
+Department of the Treasury,1961-1964,-5.335296174,1.052487007,Democratic
+Department of the Treasury,1965-1968,-3.525513388,0.839492127,Democratic
+Department of the Treasury,1969-1972,2.863727532,1.225527582,Republican
+Department of the Treasury,1973-1976,2.319583539,0.992494921,Republican
+Department of the Treasury,1977-1980,-1.817423234,0.664666031,Democratic
+Department of the Treasury,1981-1984,8.150174392,1.13756753,Republican
+Department of the Treasury,1985-1988,4.62449668,0.822589793,Republican
+Department of the Treasury,1989-1992,3.253322259,0.977626654,Republican
+Department of the Treasury,1993-1996,-4.093279274,1.228959205,Democratic
+Department of the Treasury,1997-2000,-2.387079506,0.883985162,Democratic
+Department of the Treasury,2001-2004,4.786925933,0.923552539,Republican
+Department of the Treasury,2005-2008,4.086957937,0.80645286,Republican
+Department of the Treasury,2009-2012,-4.895736739,0.976897267,Democratic
+Department of the Treasury,2013-2016,-3.119495937,0.91790686,Democratic
+Department of the Treasury,2017-2020,5.532623274,1.142473736,Republican
+Department of Transportation,1969-1972,-0.914072945,0.873711195,Republican
+Department of Transportation,1973-1976,0.189039798,0.858609773,Republican
+Department of Transportation,1977-1980,-3.426883214,0.931541454,Democratic
+Department of Transportation,1981-1984,3.567807269,0.856537476,Republican
+Department of Transportation,1985-1988,2.957104928,0.795236671,Republican
+Department of Transportation,1989-1992,0.78504577,0.769027142,Republican
+Department of Transportation,1993-1996,-2.808997303,0.863701908,Democratic
+Department of Transportation,1997-2000,-3.783356386,0.769326952,Democratic
+Department of Transportation,2001-2004,1.53132601,0.731927572,Republican
+Department of Transportation,2005-2008,2.896639105,0.777944035,Republican
+Department of Transportation,2009-2012,-3.383920206,1.023140682,Democratic
+Department of Transportation,2013-2016,-4.156373451,0.983322135,Democratic
+Department of Transportation,2017-2020,3.51197091,0.984612431,Republican
+Department of Veterans Affairs,1989-1992,0.162721523,1.054187097,Republican
+Department of Veterans Affairs,1993-1996,-2.500192529,1.029820316,Democratic
+Department of Veterans Affairs,1997-2000,-1.553522601,1.071272287,Democratic
+Department of Veterans Affairs,2001-2004,0.742113345,0.961761457,Republican
+Department of Veterans Affairs,2005-2008,1.510110075,0.89289278,Republican
+Department of Veterans Affairs,2009-2012,-3.062091698,0.853617096,Democratic
+Department of Veterans Affairs,2013-2016,-4.924331052,1.472373822,Democratic
+Department of Veterans Affairs,2017-2020,3.012594835,0.929651984,Republican

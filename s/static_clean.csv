@@ -1,0 +1,166 @@
+abbreviation,agency,ideology,ideology.se
+ACF,Administration for Children and Families,-5.716224197,0.975444718
+ACUS,Administrative Conference of the United States,-0.940427832,0.778566761
+AMS,Agricultural Marketing Service,0.859028967,0.777421485
+ARS,Agricultural Research Service,0.321307203,0.895073003
+APHIS,Animal and Plant Health Inspection Service,-2.565348062,0.923906712
+ACIS,Arms Control and International Security,5.118205062,0.843510781
+BBG,Broadcasting Board of Governors,-1.034811615,0.848335951
+ATF,"Bureau of Alcohol, Tobacco, Firearms and Explosives",4.300770056,0.814505182
+BCA,Bureau of Consular Affairs,-4.093908854,0.919037937
+BDP,Bureau of Diplomatic Security,1.871941445,0.703734997
+BEA,Bureau of Economic Analysis,-0.309014295,0.807035507
+BIA,Bureau of Indian Affairs,-3.058648121,0.857858851
+BINLEA,Bureau of International Narcotics and Law Enforcement Affairs,4.488930063,0.779479506
+BLS,Bureau of Labor Statistics,-0.771696801,0.999260683
+BLM,Bureau of Land Management,2.284892039,0.652284174
+BOP,Bureau of Prisons,8.706537591,1.10010194
+BOR,Bureau of Reclamation,3.932515173,0.718755218
+BFS,Bureau of the Fiscal Service,3.301569807,0.925523403
+CDC,Centers for Disease Control and Prevention,-5.95884896,0.865882987
+CMMS,Centers for Medicare and Medicaid Services,-5.880069052,1.007946943
+CIA,Central Intelligence Agency,8.95849672,0.993775282
+CSDHR,"Civilian Security, Democracy, and Human Rights",-5.959884262,0.836144275
+CG,Coast Guard,2.223406176,0.887013808
+CFTC,Commodity Futures Trading Commission,1.318277608,0.674854275
+CFPB,Consumer Financial Protection Bureau,-8.823922513,1.910986996
+CPSC,Consumer Product Safety Commission,-5.879082953,0.961470266
+CNCS,Corporation for National and Community Service,-4.570962676,0.648963521
+CEA,Council of Economic Advisers,-0.338752976,0.584890711
+CEQ,Council on Environmental Quality,-6.816641441,0.99681671
+DARPA,Defense Advanced Research Projects Agency,5.252514948,0.716634908
+DCA,Defense Commissary Agency,1.762708784,0.647008505
+DCAA,Defense Contract Audit Agency,8.253974512,1.187688454
+DCMA,Defense Contract Management Agency,8.26061351,1.320273941
+DFAS,Defense Finance and Accounting Service,6.824522123,0.960309472
+DHA,Defense Health Agency,4.404376083,0.789478644
+USDA,Department of Agriculture,2.35648506,0.701351338
+DOC,Department of Commerce,1.656976791,0.818153936
+DOD,Department of Defense,10.68416423,1.91821698
+EDUC,Department of Education,-2.081391354,0.622566224
+DOE,Department of Energy,-0.22139226,0.641900329
+HHS,Department of Health and Human Services,-6.817838489,0.774459386
+DHS,Department of Homeland Security,7.492155156,1.390034744
+HUD,Department of Housing and Urban Development,-8.947917627,1.056809943
+DOJ,Department of Justice,3.763273693,0.685492375
+DOL,Department of Labor,-7.640759278,0.997923517
+DOS,Department of State,-3.29144857,0.542876645
+DOT,Department of Transportation,2.377086287,1.136425261
+VA,Department of Veterans Affairs,1.058805872,0.903730223
+AF,Department of the Air Force,5.298468505,0.994630941
+ARMY,Department of the Army,7.953292166,1.662791722
+DOI,Department of the Interior,2.670906605,0.714371957
+NAVY,Department of the Navy,4.819055364,1.169331539
+TREAS,Department of the Treasury,5.842372908,0.759976722
+DEA,Drug Enforcement Administration,10.78172216,1.943634732
+EGEE,"Economic Growth, Energy, and the Environment",-2.23506282,0.720764591
+ETA,Employment and Training Administration,-6.052836962,0.857249605
+EIA,Energy Information Administration,0.283185796,0.942693606
+EPA,Environmental Protection Agency,-6.964010847,0.788929827
+EEOC,Equal Employment Opportunity Commission,-8.689442506,0.969237566
+EOUSA,Executive Office for United States Attorneys,3.980327404,0.817019587
+EIBUS,Export-Import Bank of the U.S.,2.041004848,0.613678082
+FCA,Farm Credit Administration,1.152947562,0.929674238
+FSA,Farm Service Agency,0.859115804,1.283681805
+FAA,Federal Aviation Administration,1.531331879,1.169784439
+FBI,Federal Bureau of Investigation,10.61505441,1.26950997
+FCC,Federal Communications Commission,-0.663324469,0.745705721
+FDIC,Federal Deposit Insurance Corporation,4.955988524,0.978491075
+FEC,Federal Election Commission,0.465631197,0.779312223
+FEMA,Federal Emergency Management Agency,-2.503997074,1.044187579
+FERC,Federal Energy Regulatory Commission,5.381948635,0.955435747
+FHiA,Federal Highway Administration,1.677208978,0.876685476
+FHLMC,Federal Home Loan Mortgage Corporation,3.380123362,0.801707588
+FHA,Federal Housing Administration,-3.017308654,0.629893261
+FHFA,Federal Housing Finance Agency,2.219625038,0.906924932
+FLRA,Federal Labor Relations Authority,-4.281395194,0.670715169
+FMC,Federal Maritime Commission,1.558873279,1.762692013
+FMCS,Federal Mediation and Conciliation Service,-3.226086748,0.919255857
+FMCSA,Federal Motor Carrier Safety Administration,1.377551295,1.477846439
+FNMA,Federal National Mortgage Association,1.348595237,0.758971327
+FTC,Federal Trade Commission,0.198695547,0.812950596
+FTA,Federal Transit Administration,-2.569232582,1.229899591
+FinCEN,Financial Crimes Enforcement Network,2.596904223,1.091084198
+FSIS,Food Safety and Inspection Service,-3.074957342,1.213867986
+FDA,Food and Drug Administration,-2.589348045,0.841566062
+FNS,Food and Nutrition Service,-8.595295714,1.220486641
+FS,Forest Service,1.635560238,0.857373907
+GSA,General Services Administration,-2.784657188,1.162635137
+GNMA,Government National Mortgage Association,0.932528862,0.793271549
+HRSA,Health Resources and Services Administration,-5.367516033,1.274025329
+HIS,Indian Health Service,-6.461089536,1.298260112
+IES,Institute of Education Sciences,-4.826482841,0.833064088
+IRS,Internal Revenue Service,0.128245957,0.662441908
+ITA,International Trade Administration,1.334819375,0.639539946
+JCS,Joint Chiefs of Staff,5.950555837,1.213754359
+LSC,Legal Services Corporation,-5.470432413,0.732796588
+MSPB,Merit Systems Protection Board,-0.764141239,0.79573929
+MCC,Millennium Challenge Corporation,0.684900798,0.858001463
+MSHA,Mine Safety and Health Administration,-2.866116422,0.843567154
+MDA,Missile Defense Agency,6.7711602,0.911469923
+NASA,National Aeronautics and Space Administration,-2.777334645,0.689857788
+NASS,National Agricultural Statistics Service,-1.372126488,1.545153104
+NARA,National Archives and Records Administration,-2.518289371,1.049016343
+NCA,National Cemetery Administration,-2.118197247,0.952622538
+NCUA,National Credit Union Administration,-0.299983502,0.768256873
+NFAH,National Foundation on the Arts and the Humanities,-8.485507329,0.974895543
+NGB,National Guard Bureau,5.499643917,1.331806893
+NHTSA,National Highway Traffic Safety Administration,-1.000947375,1.049235929
+NIST,National Institute of Standards and Technology,-3.273107763,0.966409932
+NIH,National Institutes of Health,-5.738668958,1.014530329
+NLRB,National Labor Relations Board,-10.7889225,1.902556687
+NNSA,National Nuclear Security Administration,6.72527337,0.812216826
+NOAA,National Oceanic and Atmospheric Administration,-5.868962378,1.161901395
+NPS,National Park Service,-5.433447638,0.825867281
+AMTRAK,National Railroad Passenger Corporation (AMTRAK),-3.68292991,0.700765213
+NSF,National Science Foundation,-4.985280422,0.994537788
+NSS,National Security Staff,3.288428981,0.742412489
+NTSB,National Transportation Safety Board,-2.407131099,1.358672786
+NRCS,Natural Resources Conservation Service,-1.980273846,0.857554999
+NRC,Nuclear Regulatory Commission,4.662123553,0.845610907
+OSHA,Occupational Safety and Health Administration,-9.469705926,1.911999353
+OEDER,Office of Electricity Delivery and Energy Reliability,-1.817045287,1.581720471
+OESE,Office of Elementary and Secondary Education,-6.035049725,1.271784576
+OEERE,Office of Energy Efficiency and Renewable Energy,-8.537467747,1.145082096
+OEM,Office of Environmental Management,-5.147900154,0.702151396
+OFSA,Office of Federal Student Aid,-5.229397098,0.95178
+OFE,Office of Fossil Energy,8.660537384,1.354416352
+OGE,Office of Government Ethics,-1.977269425,0.970665771
+OLC,Office of Legal Counsel,4.090566864,0.671051966
+OMB,Office of Management and Budget,8.164555927,1.128514464
+ONDCP,Office of National Drug Control Policy,5.4213728,0.723358877
+ONE,Office of Nuclear Energy,3.121628765,0.73061083
+OPM,Office of Personnel Management,-2.500930497,0.777897872
+OPE,Office of Postsecondary Education,-5.113158855,1.063179592
+OS,Office of Science,-5.719640047,0.990975814
+OSTP,Office of Science and Technology Policy,-4.885246265,0.790157291
+OSC,Office of Special Counsel,-0.400774713,0.961316542
+OCC,Office of the Comptroller of the Currency,6.88447939,0.824512531
+DNI,Office of the Director of National Intelligence,6.767134077,0.965085538
+OSD,Office of the Secretary of Defense,5.628572769,0.843392706
+USTR,Office of the United States Trade Representative,5.247294289,0.840716592
+OPIC,Overseas Private Investment Corporation,2.040227998,0.634880447
+PC,Peace Corps,-7.415297946,1.273796384
+PA,Political Affairs,-1.306387209,0.716502661
+PDPA,Public Diplomacy and Public Affairs,-3.897206251,0.648471701
+RHS,Rural Housing Service,-2.271361314,0.996215476
+SS,Secret Service,4.719257692,0.739551635
+SEC,Securities and Exchange Commission,1.565351727,0.611907768
+SBA,Small Business Administration,0.785743467,0.730967509
+SSA,Social Security Administration,-4.325402646,0.619768746
+TVA,Tennessee Valley Authority,-1.29769453,0.723101088
+FED,The Federal Reserve,6.512644309,0.68906807
+TSA,Transportation Security Administration,0.954546978,0.972905216
+USB,U.S. Census Bureau,-4.758603662,0.932598028
+FWS,U.S. Fish and Wildlife Service,-3.8677291,0.949594543
+GS,U.S. Geological Survey,-1.565794347,1.183584785
+USPTO,U.S. Patent and Trademark Office,1.854597077,0.832266909
+USAID,United States Agency for International Development,-4.566216457,0.813081021
+USCIS,United States Citizenship and Immigration Services,9.226243448,0.831395362
+USCBP,United States Customs and Border Protection,11.86630673,2.001790055
+USICE,United States Immigration and Customs Enforcement,10.42813212,1.920142286
+USITC,United States International Trade Commission,2.277452764,0.919141566
+USPS,United States Postal Service,-2.912582792,0.812609728
+VBA,Veterans Benefits Administration,0.406752419,0.969392107
+VHA,Veterans Health Administration,-1.074427441,0.795633424
+WHD,Wage and Hour Division,-5.514979058,0.89199581
