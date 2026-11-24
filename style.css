@@ -45,11 +45,11 @@ section ul li p{margin:0 0 6px}
 footer{border-top:1px solid var(--line);font:400 14px/1.6 Inter,system-ui,sans-serif;color:var(--muted);padding:24px 0 40px}
 .webstat{position:absolute;left:-9999px;height:0;overflow:hidden}
 @media (max-width:900px){
- .layout{grid-template-columns:1fr;gap:32px;padding-top:28px}
- .card{position:static;display:grid;grid-template-columns:120px 1fr;gap:4px 20px;align-items:start}
+ .layout{grid-template-columns:minmax(0,1fr);gap:32px;padding-top:28px}
+ .card{position:static;display:grid;grid-template-columns:120px minmax(0,1fr);gap:4px 20px;align-items:start}
  .card img{grid-row:1/4;max-width:120px;aspect-ratio:1/1;border-radius:50%}
  .who{margin-top:4px}.links{grid-column:1/-1;display:flex;flex-wrap:wrap;border:0;gap:6px 18px;margin-top:10px}.links li{border:0}
  .links a{padding:4px 0}
- .videos{grid-template-columns:1fr}
+ .videos{grid-template-columns:minmax(0,1fr)}
 }
 @media (max-width:600px){.wrap{padding:0 16px}header.top .wrap{flex-direction:column;align-items:flex-start;padding-top:12px;padding-bottom:8px;gap:8px}body{font-size:17px}nav a{padding:8px 9px;font-size:14px}}
