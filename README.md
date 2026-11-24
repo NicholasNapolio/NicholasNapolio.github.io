@@ -3,15 +3,16 @@
 Plain HTML + CSS. No build step, no database, no monthly fee. Any free static host can serve this folder as is.
 
 ## What's here
-- `index.html` (Bio / C.V.), `research.html`, `teaching.html`, `organizing.html`: the same content as the Squarespace pages, word for word.
+- `index.html` (About), `research.html`, `teaching.html`, `service.html`: the same content as the Squarespace pages, word for word, in an academic layout (top menu, profile card with Email / C.V. / Scholar / ORCiD links).
+- `organizing.html`: redirects the old Organizing page to `service.html`.
 - `style.css`: all of the styling.
 - `s/`: the PDFs and CSVs, at the same `/s/<file>` paths Squarespace used, so old links to your papers and C.V. keep working.
 - `images/`: the headshot and the ORCID icon.
-- `new-index-1.html`: redirects the old Squarespace "Organizing" URL to `organizing.html`.
+- `new-index-1.html`: redirects the old Squarespace "Organizing" URL to `service.html`.
 - `CNAME`: tells GitHub Pages to serve this at www.nicholasnapolio.com.
 
 ## Editing
-- Open the `.html` file in any text editor and change the text. Each publication is one `<p>...</p>` line.
+- Open the `.html` file in any text editor and change the text. Each publication is one `<li>...</li>` entry.
 - To post a new PDF, put it in `s/` and link it as `s/filename.pdf`.
 - To update the C.V., replace `s/Napolio-CV.pdf` and keep the same file name.
 
